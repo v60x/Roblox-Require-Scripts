@@ -1,0 +1,6 @@
+Controls: 
+W - go up
+S - go down
+F - shoot
+
+require(12620186035).Huey("YourNameHere")
