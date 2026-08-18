@@ -3,9 +3,9 @@ A collection of require scripts for backdoors, or to simply mess around with in-
 This repository was mainly compiled from various YouTube videos and finding some myself, but mainly YouTube videos. :)
 
 This repository includes:
-> Admin Scripts
-> Open-Sourced serverside executors
-> Fun Scripts
-> Map Changers
-> Server Destroyers
+> Admin Scripts,
+> Open-Sourced serverside executors,
+> Fun Scripts,
+> Map Changers,
+> Server Destroyers,
 > More coming soon! (maybe)
